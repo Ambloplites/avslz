@@ -1,4 +1,4 @@
-module github.com/YoshihikoAbe/avslz
+module github.com/Ambloplites/avslz
 
 go 1.21.3
 

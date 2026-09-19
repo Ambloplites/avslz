@@ -6,7 +6,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/YoshihikoAbe/avslz"
+	"github.com/Ambloplites/avslz"
 )
 
 func main() {
