@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/YoshihikoAbe/avslz"
+	"github.com/Ambloplites/avslz"
 )
 
 var (
